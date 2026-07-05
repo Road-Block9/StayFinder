@@ -45,6 +45,3 @@ src/
   utils/
 ```
 
-## Notes
-
-This project intentionally keeps all hotel data API-driven. No hotel records are hardcoded in the app.
